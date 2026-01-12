@@ -1,6 +1,6 @@
 public class sample {
     public static void main(String[] args) {
-        LongPalenSubstr_4 obj = new LongPalenSubstr_4();
-        System.out.println(obj.longestPalendromicSubStr("madadam"));
+        LongestCommonPrefix_14 obj = new LongestCommonPrefix_14();
+        System.out.println(obj.longestCommonPrefix(new String[]{"flower", "flow", "flight"}));
     }
 }
